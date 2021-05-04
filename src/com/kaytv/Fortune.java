@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class Fortune {
 
     public static void main(String[] args) {
+        // easy if statement example
         System.out.println("Pick a number between 1 and 10");
         Scanner scanner = new Scanner(System.in);
 
